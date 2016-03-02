@@ -124,4 +124,37 @@
 [2016.03.02-02.43.14:922][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 40.019ms to complete.
 [2016.03.02-02.43.14:922][  0]LogFileHelpers: Loading map 'Template_Default' took 0.317
 [2016.03.02-02.43.15:485][  0]LogCollectionManager: Loaded 0 collections in 0.002103 seconds
-[2016.03.02-02.43.15:527][  0]LogFileCache: Scanning file cache for dir
+[2016.03.02-02.43.15:527][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Eric/Documents/GitHub/Final-Glass-Eyes/Final_Glass_Eyes/Saved/Collections/' took 0.01s
+[2016.03.02-02.43.15:527][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Eric/Documents/GitHub/Final-Glass-Eyes/Final_Glass_Eyes/Content/Developers/Eric/Collections/' took 0.01s
+[2016.03.02-02.43.15:527][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Eric/Documents/GitHub/Final-Glass-Eyes/Final_Glass_Eyes/Content/Collections/' took 0.01s
+[2016.03.02-02.43.15:527][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2016.03.02-02.43.15:535][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 1893 classes and 338 folders.
+[2016.03.02-02.43.15:545][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2016.03.02-02.43.17:563][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2016.03.02-02.43.17:567][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2016.03.02-02.43.17:586][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.03.02-02.43.17:591][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.03.02-02.43.17:613][  0]LogLoad: Full Startup: 7.11 seconds (BP compile: 0.04 seconds)
+[2016.03.02-02.43.17:626][  0]LogOcInput: Can't find Oculus library dev build: is proper Runtime installed? Version: 0.8.0.0
+[2016.03.02-02.43.17:690][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.03.02-02.43.17:848][  0]LogRenderer: Reallocating scene render targets to support 1168x600 (Frame:2).
+[2016.03.02-02.43.17:989][  2]LogAssetRegistry: Asset discovery search completed in 4.5173 seconds
+[2016.03.02-02.43.17:989][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.03.02-02.43.17:989][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000032 seconds (updated 0 objects)
+[2016.03.02-02.52.25:046][921]LogAIModule: Creating AISystem for world First_Floor
+[2016.03.02-02.52.25:169][921]Cmd: MAP LOAD FILE="../../../../../../Users/Eric/Documents/GitHub/Final-Glass-Eyes/Final_Glass_Eyes/Content/MyContent/Levels/First_Floor.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.03.02-02.52.25:169][921]LightingResults: New page: Lighting Build
+[2016.03.02-02.52.25:183][921]LoadErrors: New page: Loading map: First_Floor.umap
+[2016.03.02-02.52.25:183][921]MapCheck: New page: Map Check
+[2016.03.02-02.52.25:183][921]LightingResults: New page: Lighting Build
+[2016.03.02-02.52.25:194][921]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000002A031584A40
+[2016.03.02-02.52.25:212][921]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.03.02-02.52.25:231][921]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.03.02-02.52.25:321][921]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 90.394ms to complete.
+[2016.03.02-02.52.25:321][921]LogFileHelpers: Loading map 'First_Floor' took 0.153
+[2016.03.02-03.08.48:495][725]LogActorComponent: UnregisterComponent: (/Engine/Transient.MovementComponent0) Not registered. Aborting.
+[2016.03.02-03.08.49:594][725]LogSavePackage: Save=1040.280029ms
+[2016.03.02-03.08.49:594][725]LogSavePackage: Moving '../../../../../../Users/Eric/Documents/GitHub/Final-Glass-Eyes/Final_Glass_Eyes/Saved/First_Floor_Auto157AAEBC5481427803211A2889C0B9D5E.tmp' to '../../../../../../Users/Eric/Documents/GitHub/Final-Glass-Eyes/Final_Glass_Eyes/Saved/Autosaves/Game/MyContent/Levels/First_Floor_Auto1.umap'
+[2016.03.02-03.08.49:596][725]LogSavePackage: Total save time: 1061.360702ms
+[2016.03.02-03.08.49:596][725]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Eric/Documents/GitHub/Final-Glass-Eyes/Final_Glass_Eyes/Saved/Autosaves/Game/MyContent/Levels/First_Floor_Auto1.umap
+[2016.03.02-03.08.49:629][725]LogFileHelpers: Edit
